@@ -1,0 +1,20 @@
+{
+  "reference": "COBRO-2026-001",
+  "customerId": "ID-REAL-DEL-CLIENTE",
+  "unitId": "ID-REAL-DE-LA-BODEGA",
+  "clientName": "Nombre del cliente",
+  "unitName": "Bodega A-01",
+  "concept": "Mensualidad de bodega",
+  "amount": "199.00",
+  "currency": "USD",
+  "billTo": {
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "address1": "Direccion real de facturacion",
+    "locality": "Roatan",
+    "administrativeArea": "Islas de la Bahia",
+    "postalCode": "34101",
+    "country": "HN",
+    "email": "cliente@example.com"
+  }
+}
